@@ -7,3 +7,6 @@ body {
 h2 {
   color: orangered;
 }
+p {
+  text-shadow: 2;
+}
