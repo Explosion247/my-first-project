@@ -2,7 +2,7 @@ body {
   background-color: lightgray;
   background-image: url("../images/01-02-02_background-img.jpg");
   background-repeat: no-repeat;
-  background-size: auto;
+  background-size: 100% 100%;
 }
 h2 {
   color: orangered;
